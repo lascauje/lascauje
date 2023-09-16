@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lascauje
-- 👀 I’m interested in 6.001
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+old apprentice wizard, now prompt engineer
 
 <!---
 lascauje/lascauje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
